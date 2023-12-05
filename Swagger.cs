@@ -1,4 +1,4 @@
-using Swashbuckle.AspNetCore.Swagger;
+/* using Swashbuckle.AspNetCore.Swagger;
 using Swashbuckle.AspNetCore.SwaggerUI;
 
 using Microsoft.AspNetCore.Mvc;

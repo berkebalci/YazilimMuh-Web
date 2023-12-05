@@ -1,3 +1,4 @@
+/*
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Controllers;
 
@@ -34,3 +35,4 @@ public class AuthController : ControllerBase
         throw new NotImplementedException();
     }
 }
+*/
