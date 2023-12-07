@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dagdelen\\MyWebApp\\MyWebApp.csproj": {}
+    "C:\\Users\\dagdelen\\YazilimMuh-Web\\Backend-Demo\\MyWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dagdelen\\MyWebApp\\MyWebApp.csproj": {
+    "C:\\Users\\dagdelen\\YazilimMuh-Web\\Backend-Demo\\MyWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dagdelen\\MyWebApp\\MyWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\dagdelen\\YazilimMuh-Web\\Backend-Demo\\MyWebApp.csproj",
         "projectName": "MyWebApp",
-        "projectPath": "C:\\Users\\dagdelen\\MyWebApp\\MyWebApp.csproj",
+        "projectPath": "C:\\Users\\dagdelen\\YazilimMuh-Web\\Backend-Demo\\MyWebApp.csproj",
         "packagesPath": "C:\\Users\\dagdelen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dagdelen\\MyWebApp\\obj\\",
+        "outputPath": "C:\\Users\\dagdelen\\YazilimMuh-Web\\Backend-Demo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dagdelen\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

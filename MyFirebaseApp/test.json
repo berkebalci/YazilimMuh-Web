@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "talaskutuphaneleri",
+  "private_key_id": "0e322736e8d1d730f6df83e18e57102658b25ad9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDU0RUkVIJCMQNL\nspbXWBkYkjQdZsMBeI5uxRL86vplQZmnx0zQ4fTmtyHr6LN2ys5+4WxLk3taLFhH\ns7xdCw/GYPSydcZ59oFTpxOX+no+wJUMvW8ZNEDBGrHXUUuX0m1fGoEu3Dre4fQb\ny4AVDEDAXiIlP+dNf2przJqm9UPs7PvYrNQB+XTX92JoMA8O8U1iF/2mkrc6YYAS\nhy20U60SvnWFij4PIXh1FrUplns3aFnIUOpilLFoSGW1onYiJQvr4rVRld6x8hn6\n2bHSlhDX2CbjXFGZnhpg6RH928DzekCpZnqmMV/LMQFdDWrXuvU2rY3ZGdcyjXes\nPkfhA6CrAgMBAAECggEAAU+1LXn3KtjqIsjGb4GY91L1+ZUSWuDMdo1F/oNPfgPn\nTPvdks9ETDmmVAb6jXRWzRGu3Puwf7qUjq3iWWvB3KCTUW2IBroIoPnUv+kotgNH\ncoJ7pprw/TT2Eelr1FMqc7K88gt5sg7lYK3NK76ywBy0YX4L0FPv1XCM0WjjKBi+\nL6lSqer4TjfAtoyHM9NLCbYbhuFd3x16+JOVMIXVqQ1j9UMyZ5WHFWOOt43Uyfr9\npTZn6BdtceKPXh65LnXat0jbmzJLImrx5lFGpf6miaZWNvdRM+QhMqwv+qqZFe7r\nmiw2aWh2NSmJ/aR+BUFsxC+QRCrMqYAQfDeMY16qeQKBgQD9WPbhTuD6WkeeFZRD\n64A1fX9oWQNwcFNbIzR+lqhBEp7jiSsJ1ejhqtoxSv57qSovX7EtrCY4hJXWCZcE\nZjk1Hql1T8H1xO7mCgYTsXzipj93N4OE0jLCbpacRsS3OrVbZ5LrHhlHVyC2RgDC\nLbee2XdSHBHoRHiycmyyrsuCWQKBgQDXC3xEHKo+yHPnoZcyWYodR0pakSPgvSdX\nS7x8i9oBQX2zl7Df1stXjljDZxF+kM/+ifprJjaO4PKIeqWCGYISuaF+hR0hNhMq\nsCkdD0O9DyCJp7TFQEnLcjx+Qpw2temkAnIYEOQKUqBO/WLf+bX8ELht/TofIS4H\n7TK3zARyowKBgQDU8G2xOkdGpZMEgEa6P7rnOrBX2FlXrFGjjJeWvrJ0313FCYmv\nHqg65Qu32rzC25CleNzG8qa9YlM+L5lLDVCQIVF1VLBGDlxt5YbuDoRVTD6TyYk1\nnicj3Seh+qllCGdeiFOoYwgEOms4SOZiT2LClS4BSa6TdtmrwxkxplFPIQKBgQDS\nFWVkQUDMrxYUb1f/l1wHuHLaQbr0PralYNcWMaZb3bhI8GOaegQTWHw9AX8kz6Jz\nQCbF8QIR2Y73aCIzFGpvkqxDpxXLMUHOTWUM/7GkjJe0A4PlxCWTvNl+W+KyzEsh\nsEX4Xt/5ebklEgQ7XX+9bjRPN7lFWivXEJKg3o5l0wKBgQCuveSyeJoBhjHI5SDA\njQoSbpaij0ViVTKZL6yVMCka52//9UbDbttKp0F/Y8kDVMc61+NVPckgLYsP0zUq\nTFr4HhPo05T5X6Xa0PCyofGJ9CrSejfquOFqA6YtQP4LlATO+2A96lcj4aHimM3M\n+CkabRqmApIA1O+o6HtbCwmfHQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-b6jxl@talaskutuphaneleri.iam.gserviceaccount.com",
+  "client_id": "112681047425231352606",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-b6jxl%40talaskutuphaneleri.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

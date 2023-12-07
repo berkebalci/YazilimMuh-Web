@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L18sDoF+FLdN/qVxnOll7Tp4syq5lL1Ph+nkJ7cweamnwPQmvv8cfOG/PYxmxsQlGINsxi0eAkMk9IVwztlHVA==",
+  "dgSpecHash": "94sv3shg7CbXJ5FbQ61arnQUHV701sZQy/Exz+eqoKscmv5wAn6fyZhRIXxtiXu+7SADI3cXkY4qgqiqjj8F8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dagdelen\\MyWebApp\\MyWebApp.csproj",
+  "projectFilePath": "C:\\Users\\dagdelen\\YazilimMuh-Web\\Backend-Demo\\MyWebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dagdelen\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.13\\microsoft.data.sqlite.core.7.0.13.nupkg.sha512",
     "C:\\Users\\dagdelen\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.13\\microsoft.entityframeworkcore.7.0.13.nupkg.sha512",
