@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TALAS 7/24</title>
+    <link rel="icon" href="images/favicon.png" type="image/x-icon" />
+    <link rel="stylesheet" href="style.css">
+    <script src="index.js"></script>
+    <link href='https://fonts.googleapis.com/css?family=Kreon' rel='stylesheet'>
+    <script src="https://kit.fontawesome.com/747a62f26f.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <h2><i><class="fa-solid fa-book" style="color: rgb(96, 92, 92);"></i>&nbsp;TALAS 7/24</h2>
+    <div class="container">
+      <input class = "image" type="image" src="images/talas-belediyesi-logo.png">
+      <h1>GİRİŞ YAP</h1>
+       
+      <input class="text1"
+        type="text"
+        placeholder="👨‍💼 Kullanıcı Adı" 
+        id="username">
+        <div id="username-error">Kullanıcı adı boş geçilemez</div>
+
+      <input class="text2" 
+        type="text" 
+        placeholder="🔑 Şifre" 
+        id="password">
+        <i class="fa-regular fa-eye visibility" style="margin-left: -35px; color: rgb(98, 98, 98);" onclick="show()"></i>
+        <div id="password-error">Şifre boş geçilemez</div>
+
+      <button class="btn" onclick="validate()">Giriş</button>
+    
+    </div>
+   
+</body>
+</html>
