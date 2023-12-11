@@ -1,3 +1,27 @@
+<script src="https://www.gstatic.com/firebasejs/9.6.0/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.6.0/firebase-firestore.js"></script>
+
+<script>
+  const firebaseConfig = {
+    apiKey: "AIzaSyAJdFknk-LVxuCrWhQSeAL2IL9K6oRjxls",
+
+authDomain: "talaskutuphaneleri.firebaseapp.com",
+
+projectId: "talaskutuphaneleri",
+
+storageBucket: "talaskutuphaneleri.appspot.com",
+
+messagingSenderId: "5706359894",
+
+appId: "1:5706359894:web:53baec19e25ea78fa347f7",
+
+measurementId: "G-060NS2LC82"
+
+  };
+
+  firebase.initializeApp(firebaseConfig);
+  const db = firebase.firestore();
+</script>
 
   
 
@@ -9,7 +33,7 @@
     <title>TALAS 7/24</title>
     <link rel="icon" href="images/favicon.png" type="image/x-icon"/>
     <link rel="stylesheet" href="sstyle.css">
-    <script src="submit.js"></script>
+    <script src="index.js"></script>
     <link href='https://fonts.googleapis.com/css?family=Kreon' rel='stylesheet'>
     <script src="https://kit.fontawesome.com/747a62f26f.js" crossorigin="anonymous"></script>
 </head>
@@ -20,19 +44,13 @@
 
         <div class="rectangle1">
          <h3>Sesli Kat </h3>
-         
         </div>
-       
         <button class="button1">+</button>
-  
          <button class="button2">-</button>
-         <form class="update">
-          <label for="kapasite">Document kapasite:</label>
-          <input type="text" name="kapasite" required>
-          <button>update a kutuphaneler</button>
-        </form>
-      
-        
+  
+         
+
+
         <div class="rectangle2">
           <h3>Sessiz Kat </h3>
         </div>
@@ -40,9 +58,9 @@
          <button class="button4">-</button>
         
         
-        <div class="rectangle3">
+        
+         <div class="rectangle3">
          <h3>Akademik Çalışma Alanı </h3>
-         
         </div>
         <button class="button5">+</button>
          <button class="button6">-</button>
