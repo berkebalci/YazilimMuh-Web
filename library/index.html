@@ -11,23 +11,25 @@
     <script src="https://kit.fontawesome.com/747a62f26f.js" crossorigin="anonymous"></script>
 </head>
 <body>
-    <h2><i class="fa-solid fa-book" style="color: rgb(96, 92, 92);"></i>&nbsp;TALAS 7/24</h2>
+    <h2><i class="fa-solid fa-book" style="color: rgb(96, 92, 92);"></i>&nbsp;TALAS 7/24 KÜTÜPHANE</h2>
     <div class="container">
       <input class = "image" type="image" src="images/talas-belediyesi-logo.png">
       <h1>GİRİŞ YAP</h1>
        
-      <input class="text1"
+        <i class="fa-solid fa-user" style="position:absolute; margin-left: 100px; margin-top: 32px; color:rgb(96, 92, 92) ;"></i>
+        <input class="text1" 
         type="text"
-        placeholder="👨‍💼 Kullanıcı Adı" 
+        placeholder="Kullanıcı Adı" 
         id="username">
-        <div id="username-error">Kullanıcı adı boş geçilemez</div>
-
-      <input class="text2" 
+       
+      
+        <i class="fa-solid fa-key" style="position:absolute; margin-left: -303px; margin-top: 105px;  color:rgb(96, 92, 92) ;"></i>
+        <input class="text2"  
         type="text" 
-        placeholder="🔑 Şifre" 
+        placeholder="Şifre" 
         id="password">
         <i class="fa-regular fa-eye visibility" style="margin-left: -35px; color: rgb(98, 98, 98);" onclick="show()"></i>
-        <div id="password-error">Şifre boş geçilemez</div>
+        <!--<div id="error">Alanlar boş geçilemez</div>-->
 
       <button class="btn" onclick="validate()">Giriş</button>
     

@@ -1,36 +1,26 @@
+   
+    
+    //var error = document.getElementById("error");
+   
 
 function validate(){
 
     var username = document.getElementById("username").value;
     var password = document.getElementById("password").value;
-    var username_error = document.getElementById('username-error');
-    var password_error = document.getElementById('password-error');
-
-
-  //validation for the inputs
-if(username ==''){
-    username_error.style.display = "block";
-    username.focus();
-    return false;
-}
-if(password ==''){
-    password_error.style.display = "block";
-    password.focus();
-    return false;
-}
 
   //redirecting to another page
+  if(username=="kullanıcı" && password=="sifre"){
 
-if(username=="kullanıcı"&&password=="sifre"){
-    
     location.href="control.html";
     return false;
-}
+ }
+
 else{
     alert("Giriş başarısız")
 }
-
 }
+ 
+  
 
 const show=()=>{
     let password=document.getElementById("password");
