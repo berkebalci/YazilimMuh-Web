@@ -1,12 +1,10 @@
-   
-    
-    //var error = document.getElementById("error");
-   
+ 
 
 function validate(){
 
     var username = document.getElementById("username").value;
     var password = document.getElementById("password").value;
+    
 
   //redirecting to another page
   if(username=="kullanıcı" && password=="sifre"){
@@ -16,11 +14,11 @@ function validate(){
  }
 
 else{
-    alert("Giriş başarısız")
+   // alert("Giriş başarısız")
+   toast();
+} 
 }
-}
- 
-  
+
 
 const show=()=>{
     let password=document.getElementById("password");
@@ -34,3 +32,14 @@ const show=()=>{
         visibility.style.color="#F9F6F4"
     }
 }
+
+function toast() {
+    // Get the snackbar DIV
+    var x = document.getElementById("snackbar");
+  
+    // Add the "show" class to DIV
+    x.className = "show";
+  
+    // After 3 seconds, remove the show class from DIV
+    setTimeout(function(){ x.className = x.className.replace("show", ""); }, 3000);
+  }

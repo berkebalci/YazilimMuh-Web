@@ -61,18 +61,6 @@ input{
     font-size: medium;
 }
 
- /*.container #error
-{
-    margin-top: 10px;
-    margin-left: 88px;
-    margin-right: 78px;
-    font-size: 18px;
-    color: #C62828;
-    background: rgba(255,0,0,0.1);
-    text-align: center;
-    border-radius: 3px;
-    display: none;
-}*/
 .btn{
     width: 315px;
     height: 45px;
@@ -93,4 +81,47 @@ input{
    border-bottom-left-radius: 10px;
    border-top-right-radius: 10px;
    background-color: #4c6952;
+}
+
+#snackbar {
+  visibility: hidden; /* Hidden by default. Visible on click */
+  min-width: 250px; 
+  background-color: #a82b12; 
+  color: #fff; 
+  text-align: center; 
+  border-radius: 5px; 
+  padding: 16px; 
+  position: fixed; /* Sit on top of the screen */
+  z-index: 1; 
+  left: 80%; 
+  top: 60px; 
+  
+}
+
+#snackbar.show {
+  visibility: visible; /* Show the snackbar */
+  /* Add animation: Take 0.5 seconds to fade in and out the snackbar.
+  However, delay the fade out process for 2.5 seconds */
+  -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+  animation: fadein 0.5s, fadeout 0.5s 2.5s;
+}
+
+@-webkit-keyframes fadein {
+  from {top: 0; opacity: 0;}
+  to {top: 60px; opacity: 1;}
+}
+
+@keyframes fadein {
+  from {top: 0; opacity: 0;}
+  to {top: 60px; opacity: 1;}
+}
+
+@-webkit-keyframes fadeout {
+  from {top: 60px; opacity: 1;}
+  to {top: 0; opacity: 0;}
+}
+
+@keyframes fadeout {
+  from {top: 60px; opacity: 1;}
+  to {top: 0; opacity: 0;}
 }
