@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "y9+bVmGOADOvPU2AXq3EpsVaLsDptw8tHNwk6GP5jbs=",
+  "Hash": "Yz3FgNRhmHCb5GSdWHEMNNmI1moyK++Bok1fgRVz4lc=",
   "Source": "MyFirebaseApp",
   "BasePath": "_content/MyFirebaseApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "MyFirebaseApp\\wwwroot",
       "Source": "MyFirebaseApp",
-      "ContentRoot": "C:\\Users\\furka\\OneDrive\\Masaüstü\\YazilimMuh-Web-backend\\V2Beta\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\YazilimMuh-Web\\V2Beta\\wwwroot\\",
       "BasePath": "_content/MyFirebaseApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\furka\\OneDrive\\Masaüstü\\YazilimMuh-Web-backend\\V2Beta\\wwwroot\\control.html",
+      "Identity": "C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\YazilimMuh-Web\\V2Beta\\wwwroot\\control.html",
       "SourceId": "MyFirebaseApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\furka\\OneDrive\\Masaüstü\\YazilimMuh-Web-backend\\V2Beta\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\YazilimMuh-Web\\V2Beta\\wwwroot\\",
       "BasePath": "_content/MyFirebaseApp",
       "RelativePath": "control.html",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\control.html"
     },
     {
-      "Identity": "C:\\Users\\furka\\OneDrive\\Masaüstü\\YazilimMuh-Web-backend\\V2Beta\\wwwroot\\controller.js",
+      "Identity": "C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\YazilimMuh-Web\\V2Beta\\wwwroot\\controller.js",
       "SourceId": "MyFirebaseApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\furka\\OneDrive\\Masaüstü\\YazilimMuh-Web-backend\\V2Beta\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\YazilimMuh-Web\\V2Beta\\wwwroot\\",
       "BasePath": "_content/MyFirebaseApp",
       "RelativePath": "controller.js",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\controller.js"
     },
     {
-      "Identity": "C:\\Users\\furka\\OneDrive\\Masaüstü\\YazilimMuh-Web-backend\\V2Beta\\wwwroot\\images\\favicon.png",
+      "Identity": "C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\YazilimMuh-Web\\V2Beta\\wwwroot\\images\\favicon.png",
       "SourceId": "MyFirebaseApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\furka\\OneDrive\\Masaüstü\\YazilimMuh-Web-backend\\V2Beta\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\YazilimMuh-Web\\V2Beta\\wwwroot\\",
       "BasePath": "_content/MyFirebaseApp",
       "RelativePath": "images/favicon.png",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\images\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\furka\\OneDrive\\Masaüstü\\YazilimMuh-Web-backend\\V2Beta\\wwwroot\\images\\talas-belediyesi-logo.png",
+      "Identity": "C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\YazilimMuh-Web\\V2Beta\\wwwroot\\images\\talas-belediyesi-logo.png",
       "SourceId": "MyFirebaseApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\furka\\OneDrive\\Masaüstü\\YazilimMuh-Web-backend\\V2Beta\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\YazilimMuh-Web\\V2Beta\\wwwroot\\",
       "BasePath": "_content/MyFirebaseApp",
       "RelativePath": "images/talas-belediyesi-logo.png",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\images\\talas-belediyesi-logo.png"
     },
     {
-      "Identity": "C:\\Users\\furka\\OneDrive\\Masaüstü\\YazilimMuh-Web-backend\\V2Beta\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\YazilimMuh-Web\\V2Beta\\wwwroot\\index.html",
       "SourceId": "MyFirebaseApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\furka\\OneDrive\\Masaüstü\\YazilimMuh-Web-backend\\V2Beta\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\YazilimMuh-Web\\V2Beta\\wwwroot\\",
       "BasePath": "_content/MyFirebaseApp",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\furka\\OneDrive\\Masaüstü\\YazilimMuh-Web-backend\\V2Beta\\wwwroot\\login.js",
+      "Identity": "C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\YazilimMuh-Web\\V2Beta\\wwwroot\\login.js",
       "SourceId": "MyFirebaseApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\furka\\OneDrive\\Masaüstü\\YazilimMuh-Web-backend\\V2Beta\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\YazilimMuh-Web\\V2Beta\\wwwroot\\",
       "BasePath": "_content/MyFirebaseApp",
       "RelativePath": "login.js",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\login.js"
     },
     {
-      "Identity": "C:\\Users\\furka\\OneDrive\\Masaüstü\\YazilimMuh-Web-backend\\V2Beta\\wwwroot\\sstyle.css",
+      "Identity": "C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\YazilimMuh-Web\\V2Beta\\wwwroot\\sstyle.css",
       "SourceId": "MyFirebaseApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\furka\\OneDrive\\Masaüstü\\YazilimMuh-Web-backend\\V2Beta\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\YazilimMuh-Web\\V2Beta\\wwwroot\\",
       "BasePath": "_content/MyFirebaseApp",
       "RelativePath": "sstyle.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\sstyle.css"
     },
     {
-      "Identity": "C:\\Users\\furka\\OneDrive\\Masaüstü\\YazilimMuh-Web-backend\\V2Beta\\wwwroot\\style.css",
+      "Identity": "C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\YazilimMuh-Web\\V2Beta\\wwwroot\\style.css",
       "SourceId": "MyFirebaseApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\furka\\OneDrive\\Masaüstü\\YazilimMuh-Web-backend\\V2Beta\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\YazilimMuh-Web\\V2Beta\\wwwroot\\",
       "BasePath": "_content/MyFirebaseApp",
       "RelativePath": "style.css",
       "AssetKind": "All",
