@@ -10,9 +10,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/Backend-Demo/bin/Debug/net7.0/MyWebApp.dll",
+            "program": "${workspaceFolder}/V2Beta/bin/Debug/net7.0/MyFirebaseApp.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Backend-Demo",
+            "cwd": "${workspaceFolder}/V2Beta",
             "stopAtEntry": false,
             "serverReadyAction": {
                 "action": "openExternally",

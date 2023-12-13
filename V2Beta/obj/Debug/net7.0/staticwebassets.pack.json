@@ -1,35 +1,35 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\YazilimMuh-Web\\V2Beta\\wwwroot\\control.html",
+      "Id": "C:\\Users\\furka\\OneDrive\\Masaüstü\\YazilimMuh-Web-backend\\V2Beta\\wwwroot\\control.html",
       "PackagePath": "staticwebassets\\control.html"
     },
     {
-      "Id": "C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\YazilimMuh-Web\\V2Beta\\wwwroot\\controller.js",
+      "Id": "C:\\Users\\furka\\OneDrive\\Masaüstü\\YazilimMuh-Web-backend\\V2Beta\\wwwroot\\controller.js",
       "PackagePath": "staticwebassets\\controller.js"
     },
     {
-      "Id": "C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\YazilimMuh-Web\\V2Beta\\wwwroot\\images\\favicon.png",
+      "Id": "C:\\Users\\furka\\OneDrive\\Masaüstü\\YazilimMuh-Web-backend\\V2Beta\\wwwroot\\images\\favicon.png",
       "PackagePath": "staticwebassets\\images\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\YazilimMuh-Web\\V2Beta\\wwwroot\\images\\talas-belediyesi-logo.png",
+      "Id": "C:\\Users\\furka\\OneDrive\\Masaüstü\\YazilimMuh-Web-backend\\V2Beta\\wwwroot\\images\\talas-belediyesi-logo.png",
       "PackagePath": "staticwebassets\\images\\talas-belediyesi-logo.png"
     },
     {
-      "Id": "C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\YazilimMuh-Web\\V2Beta\\wwwroot\\index.html",
+      "Id": "C:\\Users\\furka\\OneDrive\\Masaüstü\\YazilimMuh-Web-backend\\V2Beta\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\YazilimMuh-Web\\V2Beta\\wwwroot\\login.js",
+      "Id": "C:\\Users\\furka\\OneDrive\\Masaüstü\\YazilimMuh-Web-backend\\V2Beta\\wwwroot\\login.js",
       "PackagePath": "staticwebassets\\login.js"
     },
     {
-      "Id": "C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\YazilimMuh-Web\\V2Beta\\wwwroot\\sstyle.css",
+      "Id": "C:\\Users\\furka\\OneDrive\\Masaüstü\\YazilimMuh-Web-backend\\V2Beta\\wwwroot\\sstyle.css",
       "PackagePath": "staticwebassets\\sstyle.css"
     },
     {
-      "Id": "C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\YazilimMuh-Web\\V2Beta\\wwwroot\\style.css",
+      "Id": "C:\\Users\\furka\\OneDrive\\Masaüstü\\YazilimMuh-Web-backend\\V2Beta\\wwwroot\\style.css",
       "PackagePath": "staticwebassets\\style.css"
     },
     {
