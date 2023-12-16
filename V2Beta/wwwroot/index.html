@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TALAS 7/24</title>
+    <link rel="icon" href="images/favicon.png" type="image/x-icon" />
+    <link rel="stylesheet" href="style.css">
+    <!-- Firebase App (the core Firebase SDK) is always required and must be listed first -->
+    <script type="module" src="https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js"></script>
+    <script type="module" src="https://www.gstatic.com/firebasejs/10.7.1/firebase-analytics.js"></script>
+    <script type="module" src="https://www.gstatic.com/firebasejs/10.7.1/firebase-auth.js"></script>
+    <script type="module" src="https://www.gstatic.com/firebasejs/10.7.1/firebase-firestore.js"></script>
+    <script  src="https://www.gstatic.com/firebasejs/10.7.1/firebase-app-compat.js"></script>
+    <script  src="https://www.gstatic.com/firebasejs/10.7.1/firebase-analytics-compat.js"></script>
+    <script  src="https://www.gstatic.com/firebasejs/10.7.1/firebase-auth-compat.js"></script>
+    <script  src="https://www.gstatic.com/firebasejs/10.7.1/firebase-firestore-compat.js"></script>
+
+    <script>
+      var firebaseConfig = {
+        apiKey: "AIzaSyDq8K_RmbpSlhaefNVUxSuJmBb8A8bU6-w",
+        authDomain: "talaskutuphaneleri.web.app",
+        projectId: "talaskutuphaneleri",
+        storageBucket: "gs://talaskutuphaneleri.appspot.com",
+        messagingSenderId: "5706359894",
+        appId: "1:5706359894:web:53baec19e25ea78fa347f7"
+      };
+      firebase.initializeApp(firebaseConfig);
+      firebase.analytics();
+    </script>
+
+    <script src="login.js"></script>
+    <link href='https://fonts.googleapis.com/css?family=Kreon' rel='stylesheet'>
+    <script src="https://kit.fontawesome.com/747a62f26f.js" crossorigin="anonymous"></script>
+</head>
+<body>
+      
+    <h2><i class="fa-solid fa-book" style="color: rgb(96, 92, 92);"></i>&nbsp;TALAS 7/24 KÜTÜPHANE</h2>
+    <div class="container">
+      <input class = "image" type="image" src="images/talas-belediyesi-logo.png">
+      <h1>GİRİŞ YAP</h1>
+       
+        <i class="fa-solid fa-user" style="position:absolute; margin-left: 100px; margin-top: 32px; color:rgb(96, 92, 92) ;"></i>
+        <input class="text1" 
+        type="text"
+        placeholder="Kullanıcı Adı" 
+        id="username">
+       
+      
+        <i class="fa-solid fa-key" style="position:absolute; margin-left: -303px; margin-top: 105px;  color:rgb(96, 92, 92) ;"></i>
+        <input class="text2"  
+        type="password" 
+        placeholder="Şifre" 
+        id="password">
+        <i class="fa-regular fa-eye visibility" style="margin-left: -35px; color: rgb(98, 98, 98);" onclick="show()"></i>
+      <button class="btn" onclick="validate()">Giriş</button>
+      <div id="snackbar">Giriş Başarısız</div>
+    </div>
+</body>
+</html>

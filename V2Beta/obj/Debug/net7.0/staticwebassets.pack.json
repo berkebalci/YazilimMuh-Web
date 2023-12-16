@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\dagdelen\\Desktop\\YazilimMuh-Web-backend\\V2Beta\\wwwroot\\control.html",
+      "PackagePath": "staticwebassets\\control.html"
+    },
+    {
+      "Id": "C:\\Users\\dagdelen\\Desktop\\YazilimMuh-Web-backend\\V2Beta\\wwwroot\\controller.js",
+      "PackagePath": "staticwebassets\\controller.js"
+    },
+    {
+      "Id": "C:\\Users\\dagdelen\\Desktop\\YazilimMuh-Web-backend\\V2Beta\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\dagdelen\\Desktop\\YazilimMuh-Web-backend\\V2Beta\\wwwroot\\images\\talas-belediyesi-logo.png",
+      "PackagePath": "staticwebassets\\images\\talas-belediyesi-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\dagdelen\\Desktop\\YazilimMuh-Web-backend\\V2Beta\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\dagdelen\\Desktop\\YazilimMuh-Web-backend\\V2Beta\\wwwroot\\login.js",
+      "PackagePath": "staticwebassets\\login.js"
+    },
+    {
+      "Id": "C:\\Users\\dagdelen\\Desktop\\YazilimMuh-Web-backend\\V2Beta\\wwwroot\\sstyle.css",
+      "PackagePath": "staticwebassets\\sstyle.css"
+    },
+    {
+      "Id": "C:\\Users\\dagdelen\\Desktop\\YazilimMuh-Web-backend\\V2Beta\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MyFirebaseApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.MyFirebaseApp.props",
+      "PackagePath": "build\\MyFirebaseApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.MyFirebaseApp.props",
+      "PackagePath": "buildMultiTargeting\\MyFirebaseApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.MyFirebaseApp.props",
+      "PackagePath": "buildTransitive\\MyFirebaseApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
