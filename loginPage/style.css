@@ -12,11 +12,18 @@ h2{
 .container{
     box-sizing: border-box;
     width: 480px;
-    height: 500px;
+    height: 525px;
     background-color: #F9F6F4;
-    margin: 55px 500px;
+    margin: 50px 500px;
     border-radius: 10px;
     box-shadow: 8px 8px 4px #9d5b2b;
+}
+
+.image{
+    width:125px; 
+    height:125px;
+    margin-left: 180px;
+    margin-top: 25px;
 }
 
 .text1{
@@ -45,7 +52,7 @@ h2{
 }
 h1{
     color: #53715a;
-    padding-top: 110px;
+    padding-top: 10px;
     padding-left: 170px;
     font-family: Kreon;
     font-weight: lighter;
@@ -70,8 +77,8 @@ input{
 }
 .btn:hover{
     border-bottom-right-radius: 50px;
-   border-top-left-radius: 50px;
-   border-bottom-left-radius: 10px;
-   border-top-right-radius: 10px;
-   background-color: #4c6952;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: #4c6952;
 }
